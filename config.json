@@ -1,0 +1,6 @@
+{
+    "domain" : "google.com",
+    "password" : "password",
+    "amount" : 1000,
+    "proxies" : true
+}
